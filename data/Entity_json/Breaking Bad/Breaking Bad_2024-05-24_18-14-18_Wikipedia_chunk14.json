@@ -1,0 +1,82 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg",
+            "Mr. Lambert"
+        ],
+        "fragment": "Walter White, a high school chemistry teacher, uses his chemistry expertise to cook crystal meth after being diagnosed with terminal lung cancer."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [
+            "Cap'n Cook",
+            "Yo, Mr. White"
+        ],
+        "fragment": "Jesse Pinkman, a former student of Walter White, becomes his partner in the methamphetamine production business."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [
+            "Mrs. White",
+            "Sky"
+        ],
+        "fragment": "Skyler White, Walter's wife, becomes involved in his illegal activities and helps him launder money."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [
+            "ASAC Schrader",
+            "Gomey"
+        ],
+        "fragment": "Hank Schrader, Walter's brother-in-law, is a DEA agent who becomes obsessed with tracking down the mysterious drug lord known as Heisenberg."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [
+            "Purple",
+            "Shoplifter"
+        ],
+        "fragment": "Marie Schrader, Hank's wife, is a kleptomaniac and becomes entangled in the criminal activities of her brother-in-law."
+    },
+    {
+        "character": "Saul Goodman",
+        "aliases": [
+            "Jimmy McGill",
+            "Gene Takavic"
+        ],
+        "fragment": "Saul Goodman, a criminal lawyer, becomes Walter and Jesse's legal counsel and helps them navigate the dangerous world of drug trafficking."
+    },
+    {
+        "character": "Gustavo Fring",
+        "aliases": [
+            "Gus",
+            "The Chicken Man"
+        ],
+        "fragment": "Gustavo Fring, a prominent businessman and drug lord, becomes a major adversary for Walter and Jesse."
+    },
+    {
+        "character": "Mike Ehrmantraut",
+        "aliases": [
+            "The Cleaner",
+            "Grandpa"
+        ],
+        "fragment": "Mike Ehrmantraut, a former police officer and hitman, becomes a trusted associate of Gus and later works with Walter and Jesse."
+    },
+    {
+        "character": "Tuco Salamanca",
+        "aliases": [
+            "Tight Tight",
+            "Crazy 8"
+        ],
+        "fragment": "Tuco Salamanca, a violent and unpredictable drug dealer, becomes an early antagonist for Walter and Jesse."
+    },
+    {
+        "character": "Hector Salamanca",
+        "aliases": [
+            "Tio",
+            "The Bell"
+        ],
+        "fragment": "Hector Salamanca, Tuco's uncle, is a former cartel member and becomes a key player in the later seasons of the show."
+    }
+]

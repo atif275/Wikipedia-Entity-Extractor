@@ -1,0 +1,66 @@
+[
+    {
+        "character": "Joseph Cooper",
+        "aliases": [
+            "Cooper"
+        ],
+        "fragment": "Joseph Cooper, a former NASA test pilot, reluctantly becomes a farmer after the agency was closed by the government."
+    },
+    {
+        "character": "Dr. Amelia Brand",
+        "aliases": [
+            "Amelia"
+        ],
+        "fragment": "Dr. Amelia Brand, professor Brand's daughter and NASA scientist, is responsible for conducting planet colonization."
+    },
+    {
+        "character": "Murphy Murph Cooper",
+        "aliases": [
+            "Murph"
+        ],
+        "fragment": "Murphy Murph Cooper, Joseph's daughter, becomes a NASA scientist working under Professor Brand."
+    },
+    {
+        "character": "Donald",
+        "aliases": [
+            "Donald Cooper"
+        ],
+        "fragment": "Donald, Cooper's elderly father-in-law, supports the family as farmers."
+    },
+    {
+        "character": "Professor John Brand",
+        "aliases": [
+            "Professor Brand"
+        ],
+        "fragment": "Professor John Brand, a high-ranking NASA scientist and father of Amelia, is the director of the Lazarus and Endurance missions."
+    },
+    {
+        "character": "Tom Cooper",
+        "aliases": [
+            "Tom"
+        ],
+        "fragment": "Tom Cooper, Joseph's son, eventually takes charge of his father's farm."
+    },
+    {
+        "character": "Doyle",
+        "aliases": [],
+        "fragment": "Doyle, a high-ranking NASA member and Endurance crew member, is part of the team that travels through the wormhole."
+    },
+    {
+        "character": "TARS",
+        "aliases": [],
+        "fragment": "TARS is an intelligent robot assigned to assist the crew of the Endurance."
+    },
+    {
+        "character": "CASE",
+        "aliases": [],
+        "fragment": "CASE is another intelligent robot assigned to assist the crew of the Endurance."
+    },
+    {
+        "character": "Dr. Mann",
+        "aliases": [
+            "Mann"
+        ],
+        "fragment": "Dr. Mann, a NASA astronaut, is sent to an icy planet during the Lazarus program."
+    }
+]

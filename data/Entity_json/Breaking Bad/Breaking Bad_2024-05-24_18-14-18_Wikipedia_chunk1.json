@@ -1,0 +1,64 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg"
+        ],
+        "fragment": "Walter White, a high-school chemistry teacher, turns to a life of crime and partners with a former student to produce and distribute methamphetamine."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [],
+        "fragment": "Skyler White, Walter's wife, becomes increasingly suspicious of her husband's behavior after he starts behaving in unfamiliar ways."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [],
+        "fragment": "Jesse Pinkman, Walter's former student and cooking partner, is a funny kid who gets mixed up in the wrong crowd."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [],
+        "fragment": "Hank Schrader, Walter's brother-in-law and a DEA agent, investigates the presence of a drug lord known as Heisenberg."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [],
+        "fragment": "Marie Schrader, Skyler's sister and Hank's wife, is a kleptomaniac who is there for her family but is also unpleasant."
+    },
+    {
+        "character": "Walter White Jr.",
+        "aliases": [],
+        "fragment": "Walter White Jr., Walter and Skyler's son, has cerebral palsy and starts lashing out after his father's cancer diagnosis."
+    },
+    {
+        "character": "Gustavo Fring",
+        "aliases": [],
+        "fragment": "Gustavo Fring, a high-level drug distributor and owner of Los Pollos Hermanos, has a cover as a fast-food chain owner."
+    },
+    {
+        "character": "Saul Goodman",
+        "aliases": [],
+        "fragment": "Saul Goodman, a crooked lawyer, represents Walter and Jesse and draws inspiration from film producer Robert Evans."
+    },
+    {
+        "character": "Mike Ehrmantraut",
+        "aliases": [],
+        "fragment": "Mike Ehrmantraut, a private investigator and hitman, works for Gus as an all-purpose cleaner and also for Saul."
+    },
+    {
+        "character": "Lydia Rodarte-Quayle",
+        "aliases": [],
+        "fragment": "Lydia Rodarte-Quayle, a high-ranking employee of Madrigal Electromotive, reluctantly supplies Walter and Jesse with methylamine."
+    },
+    {
+        "character": "Todd Alquist",
+        "aliases": [],
+        "fragment": "Todd Alquist, an employee of Vamonos Pest Control, becomes an associate of Walter and Jesse."
+    },
+    {
+        "character": "Huell Babineaux",
+        "aliases": [],
+        "fragment": "Huell Babineaux, Saul's bodyguard, also handles problems that Walter needs fixing."
+    }
+]

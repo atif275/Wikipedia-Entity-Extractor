@@ -1,0 +1,74 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg",
+            "Mr. Lambert"
+        ],
+        "fragment": "Walter White goes from a mild-mannered chemistry teacher to a ruthless methamphetamine manufacturer."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [
+            "Cap'n Cook",
+            "Yo, Mr. White"
+        ],
+        "fragment": "Jesse Pinkman is a small-time methamphetamine cook who becomes Walter White's partner."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [
+            "Mrs. White",
+            "Sky"
+        ],
+        "fragment": "Skyler White is Walter White's wife who becomes entangled in his criminal activities."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [
+            "ASAC Schrader",
+            "Gomey"
+        ],
+        "fragment": "Hank Schrader is a DEA agent and Walter White's brother-in-law who becomes obsessed with catching Heisenberg."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [
+            "Purple",
+            "Shoplifter"
+        ],
+        "fragment": "Marie Schrader is Hank Schrader's kleptomaniac wife who has a penchant for the color purple."
+    },
+    {
+        "character": "Saul Goodman",
+        "aliases": [
+            "Jimmy McGill",
+            "Gene Takavic"
+        ],
+        "fragment": "Saul Goodman is a criminal lawyer who becomes involved in Walter White's illegal activities."
+    },
+    {
+        "character": "Gus Fring",
+        "aliases": [
+            "The Chicken Man",
+            "Max Arciniega"
+        ],
+        "fragment": "Gus Fring is a high-level drug lord and owner of the Los Pollos Hermanos fast-food chain."
+    },
+    {
+        "character": "Mike Ehrmantraut",
+        "aliases": [
+            "The Cleaner",
+            "Grandpa"
+        ],
+        "fragment": "Mike Ehrmantraut is a former police officer and hitman who becomes a key player in the drug trade."
+    },
+    {
+        "character": "Lydia Rodarte-Quayle",
+        "aliases": [
+            "Lydia Rodarte",
+            "Lydia Quayle"
+        ],
+        "fragment": "Lydia Rodarte-Quayle is a businesswoman and methamphetamine distributor who becomes involved with Walter White."
+    }
+]

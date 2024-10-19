@@ -1,0 +1,66 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg"
+        ],
+        "fragment": "Walter White, an underpaid high-school chemistry teacher, becomes a major drug kingpin under the name Heisenberg."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [],
+        "fragment": "Jesse Pinkman, a former student of Walter White, helps him produce and distribute crystal meth."
+    },
+    {
+        "character": "Saul Goodman",
+        "aliases": [
+            "Jimmy McGill"
+        ],
+        "fragment": "Saul Goodman, a criminal lawyer, helps Walter and Jesse with their illegal activities."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [],
+        "fragment": "Skyler White is Walter's wife and becomes involved in his criminal activities."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [],
+        "fragment": "Hank Schrader is a DEA agent and Walter's brother-in-law."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [],
+        "fragment": "Marie Schrader is Skyler's sister and Hank's wife."
+    },
+    {
+        "character": "Gus Fring",
+        "aliases": [],
+        "fragment": "Gus Fring is a drug kingpin and a major antagonist in the series."
+    },
+    {
+        "character": "Mike Ehrmantraut",
+        "aliases": [],
+        "fragment": "Mike Ehrmantraut is a private investigator and fixer who becomes involved with Walter and Jesse."
+    },
+    {
+        "character": "Kim Wexler",
+        "aliases": [],
+        "fragment": "Kim Wexler is Jimmy McGill's love interest and fellow attorney."
+    },
+    {
+        "character": "Chuck McGill",
+        "aliases": [],
+        "fragment": "Chuck McGill is Jimmy's older brother and a successful lawyer."
+    },
+    {
+        "character": "Nacho Varga",
+        "aliases": [],
+        "fragment": "Nacho Varga is a cunning criminal and a rival of Jimmy and Mike."
+    },
+    {
+        "character": "Lalo Salamanca",
+        "aliases": [],
+        "fragment": "Lalo Salamanca is a charismatic enforcer who helps run his family's drug business."
+    }
+]

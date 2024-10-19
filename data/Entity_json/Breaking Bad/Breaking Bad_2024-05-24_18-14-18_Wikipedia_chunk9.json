@@ -1,0 +1,79 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg"
+        ],
+        "fragment": "After being diagnosed with lung cancer, Walter White starts manufacturing methamphetamine to provide for his family."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [],
+        "fragment": "Skyler White deduces that Walter is a drug dealer and resolves to divorce him."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [],
+        "fragment": "Jesse Pinkman is a small-time methamphetamine user, manufacturer, and dealer who becomes Walter's business partner."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [],
+        "fragment": "Hank Schrader is a DEA agent who becomes involved in investigating the meth trade."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [],
+        "fragment": "Marie Schrader is Skylar's sister and Hank's wife, who struggles with kleptomania."
+    },
+    {
+        "character": "Saul Goodman",
+        "aliases": [],
+        "fragment": "Saul Goodman is a sleazy lawyer who acts as Walter and Jesse's attorney and provides comic relief."
+    },
+    {
+        "character": "Gus Fring",
+        "aliases": [],
+        "fragment": "Gus Fring is a Chilean-born drug kingpin who uses his fried chicken restaurant as a front for his meth distribution."
+    },
+    {
+        "character": "Mike Ehrmantraut",
+        "aliases": [],
+        "fragment": "Mike Ehrmantraut is a former police officer who works as a private investigator, head of security, cleaner, and hitman."
+    },
+    {
+        "character": "Lydia Rodarte-Quayle",
+        "aliases": [],
+        "fragment": "Lydia Rodarte-Quayle is an executive at Madrigal Electromotive and a partner in Gus's drug activities."
+    },
+    {
+        "character": "Todd Alquist",
+        "aliases": [],
+        "fragment": "Todd Alquist is an exterminator and meth manufacturer who becomes Walter's assistant in the cooking process."
+    },
+    {
+        "character": "Kim Wexler",
+        "aliases": [],
+        "fragment": "Kim Wexler is Jimmy's friend, romantic partner, and later wife, who becomes a successful lawyer."
+    },
+    {
+        "character": "Howard Hamlin",
+        "aliases": [],
+        "fragment": "Howard Hamlin is a name partner at a prestigious law firm and a source of frustration for Jimmy."
+    },
+    {
+        "character": "Nacho Varga",
+        "aliases": [],
+        "fragment": "Nacho Varga is a calculating career criminal who becomes Hector Salamanca's right-hand man."
+    },
+    {
+        "character": "Chuck McGill",
+        "aliases": [],
+        "fragment": "Chuck McGill is Jimmy's older brother and a named partner at a prestigious law firm."
+    },
+    {
+        "character": "Lalo Salamanca",
+        "aliases": [],
+        "fragment": "Lalo Salamanca is Hector Salamanca's nephew who takes over the family's drug operation."
+    }
+]

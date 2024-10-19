@@ -1,0 +1,31 @@
+[
+    {
+        "character": "Cooper",
+        "aliases": [
+            "Coop"
+        ],
+        "fragment": "Referred to only as Cooper or Coop in the film."
+    },
+    {
+        "character": "Mann",
+        "aliases": [],
+        "fragment": "The comic is a prequel to the film with Mann as the protagonist."
+    },
+    {
+        "character": "Thorne",
+        "aliases": [],
+        "fragment": "Thorne collaborated with Franklin and a team of 30 people at Double Negative."
+    },
+    {
+        "character": "Nolan",
+        "aliases": [
+            "Christopher Nolan"
+        ],
+        "fragment": "Christopher Nolan and McConaughey made their first appearances at San Diego Comic-Con in July 2014 to promote Interstellar."
+    },
+    {
+        "character": "Matthew McConaughey",
+        "aliases": [],
+        "fragment": "The teaser trailer for Interstellar debuted December 13, 2013 and featured clips related to space exploration accompanied by a voiceover by Matthew McConaughey's character Cooper."
+    }
+]

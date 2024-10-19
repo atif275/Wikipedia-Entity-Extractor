@@ -1,0 +1,54 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg"
+        ],
+        "fragment": "Walt enters into a partnership with a former student to cook crystal meth as a means of supporting his family."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [],
+        "fragment": "Skyler reconciles with her sister Marie and confronts Walt about his recent behavior."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [],
+        "fragment": "Jesse tracks down the couple who ripped off his friend and witnesses a violent altercation."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [],
+        "fragment": "Hank suffers from post-traumatic stress disorder after a bombing and struggles to fit in at his new job."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [],
+        "fragment": "Marie mistakenly believes that Walter Jr. is smoking marijuana and asks Hank to scare him straight."
+    },
+    {
+        "character": "Walter White Jr.",
+        "aliases": [],
+        "fragment": "Walter Jr. is busted by an undercover cop for trying to purchase beer as a minor."
+    },
+    {
+        "character": "Saul Goodman",
+        "aliases": [],
+        "fragment": "Saul becomes Walt and Jesse's lawyer and helps them with their drug business."
+    },
+    {
+        "character": "Gus Fring",
+        "aliases": [],
+        "fragment": "Gus becomes the new distributor of Walt and Jesse's meth after Tuco's death."
+    },
+    {
+        "character": "Mike Ehrmantraut",
+        "aliases": [],
+        "fragment": "Mike is a cleaner and one of Saul's associates who also works for Gus."
+    },
+    {
+        "character": "Jane Margolis",
+        "aliases": [],
+        "fragment": "Jane is Jesse's neighbor, landlord, and girlfriend who is in recovery from drug addiction."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg"
+        ],
+        "fragment": "Walter White transforms from a mild-mannered chemistry teacher to a ruthless drug lord known as Heisenberg."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [],
+        "fragment": "Skyler White struggles to come to terms with her husband's criminal activities and tries to protect her family."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [],
+        "fragment": "Jesse Pinkman is a small-time methamphetamine manufacturer and dealer who becomes deeply involved in the drug trade."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [],
+        "fragment": "Hank Schrader is a DEA agent and Walter White's brother-in-law who becomes obsessed with uncovering the identity of the mysterious drug lord Heisenberg."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [],
+        "fragment": "Marie Schrader is Hank Schrader's wife and Skyler White's sister, known for her kleptomania and obsession with the color purple."
+    }
+]

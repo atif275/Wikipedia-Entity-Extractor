@@ -1,0 +1,122 @@
+Film
+:
+American
+Template‑class
+Film portal
+This template is within the scope of
+WikiProject Film
+. If you would like to participate, please visit the project page, where you can
+join the discussion
+and see lists of
+open tasks
+and
+regional and topical task forces
+. To use this banner, please refer to the
+documentation
+. To improve this article, please refer to the
+guidelines
+.
+Film
+Wikipedia:WikiProject Film
+Template:WikiProject Film
+film articles
+Template
+This template does not require a rating on Wikipedia's
+content assessment
+scale.
+This article is supported by the
+American cinema task force
+.
+Structure of template
+[
+edit
+]
+All others are seperated by years, why should this one be any different?--
+TheMovieBuff
+(
+talk
+) 18:45, 18 July 2010 (UTC)
+[
+reply
+]
+I agree with
+TheMovieBuff
+.  Unless someone has only directed a few films, then I could see the current template as acceptable.  However, Chris now has seven films to his credit as of this writing.  There is absolutely no reason for the template to not be like all others. -
+Cartoon Boy
+(
+talk
+) 20:18, 18 July 2010 (UTC)
+[
+reply
+]
+Splitting these director templates up by decades is a completely arbitrary structure.  It works for directors like
+Woody Allen
+who has scores of films, but at the moment splitting it up for Nolan does not help readers navigate.  Nolan, at the moment, has too few films for this structure to be useful.  --
+Wikipedical
+(
+talk
+) 01:14, 19 July 2010 (UTC)
+[
+reply
+]
+I’ve been splitting up the decades, and I agree with
+TheMovieBuff
+and
+Cartoon Boy
+. There is NO reason that his template should be any different from those of other film directors.
+67.238.37.237
+(
+talk
+) 06:58, 12 February 2011 (UTC)
+[
+reply
+]
+Nothing is being accomplished by repeatedly reverting each other's edits. --
+Boycool
+(
+talk
+) 13:55, 20 February 2011 (UTC)
+[
+reply
+]
+Is there an in-between solution that could be used? I understand how
+Following
+is oddly presented as an outlier. What about combining the 1990s and the 2000s and leaving the other fields? If
+The Dark Knight Rises
+begins production, it can be in the same row as
+Inception
+.
+Erik
+(
+talk
+|
+contribs
+) 14:58, 20 February 2011 (UTC)
+[
+reply
+]
+Distinction between short films and feature films
+[
+edit
+]
+I see no benefit in grouping short films and feature films together. Nolan is known primarily for his feature films, so readers would be misled to think that
+Doodlebug
+and
+Quay
+are also feature films until they find out otherwise. Do we need a third opinion?
+Erik
+(
+talk
+|
+contrib
+)
+(
+ping me
+)
+00:30, 6 April 2017 (UTC)
+[
+reply
+]
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Template_talk:Christopher_Nolan&oldid=774054033
+"

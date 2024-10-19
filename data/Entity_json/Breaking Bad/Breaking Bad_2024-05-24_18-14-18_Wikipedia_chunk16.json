@@ -1,0 +1,161 @@
+[
+    {
+        "character": "Walter White",
+        "aliases": [
+            "Heisenberg"
+        ],
+        "fragment": "Walt admits that he cooks meth causing Skyler to leave deeply shaken."
+    },
+    {
+        "character": "Skyler White",
+        "aliases": [],
+        "fragment": "Skyler confronts Walt about the divorce and accuses him of being a weed dealer."
+    },
+    {
+        "character": "Jesse Pinkman",
+        "aliases": [],
+        "fragment": "Jesse is in rehab trying to overcome his drug addiction and come to terms with Jane's death."
+    },
+    {
+        "character": "Hank Schrader",
+        "aliases": [],
+        "fragment": "Hank brutally attacks Jesse in retaliation for the incident at the impound lot."
+    },
+    {
+        "character": "Marie Schrader",
+        "aliases": [],
+        "fragment": "Marie lashes out at Hank's boss when she hears they had taken his gun away."
+    },
+    {
+        "character": "Walter White Jr.",
+        "aliases": [],
+        "fragment": "Walt Jr. is thrilled that his dad is back but Skyler calls the police in an attempt to have Walt thrown out."
+    },
+    {
+        "character": "Saul Goodman",
+        "aliases": [],
+        "fragment": "Saul wants Walt to start producing meth again and takes steps to encourage him in that direction."
+    },
+    {
+        "character": "Gus Fring",
+        "aliases": [],
+        "fragment": "Gus arranges a meeting with his Mexican cartel counterparts and makes it clear that he wants Walt left alone."
+    },
+    {
+        "character": "Mike Ehrmantraut",
+        "aliases": [],
+        "fragment": "Mike is one of Gus' most loyal henchmen and one of Saul's associates."
+    },
+    {
+        "character": "Gale Boetticher",
+        "aliases": [],
+        "fragment": "Gale is one of Gus' associates who briefly worked with Walt."
+    },
+    {
+        "character": "Victor",
+        "aliases": [],
+        "fragment": "Victor is one of Gus' henchmen."
+    },
+    {
+        "character": "Leonel and Marco Salamanca",
+        "aliases": [
+            "The Cousins"
+        ],
+        "fragment": "The Cousins are twin brothers seeking revenge for the death of their cousin Tuco."
+    },
+    {
+        "character": "Steven Gomez",
+        "aliases": [],
+        "fragment": "Steven is Hank's partner at the DEA."
+    },
+    {
+        "character": "Skinny Pete",
+        "aliases": [],
+        "fragment": "Skinny Pete is one of Jesse's friends."
+    },
+    {
+        "character": "Ted Beneke",
+        "aliases": [],
+        "fragment": "Ted is Skyler's former boss who she has a brief affair with."
+    },
+    {
+        "character": "Gale Boetticher",
+        "aliases": [],
+        "fragment": "Gale is one of Gus' associates who briefly worked with Walt."
+    },
+    {
+        "character": "ASAC George Merkert",
+        "aliases": [],
+        "fragment": "George is the head of the Albuquerque DEA office, Hank and Steve's boss."
+    },
+    {
+        "character": "Group Leader",
+        "aliases": [],
+        "fragment": "The Group Leader is a counselor who helps recovering drug addicts, including Jesse."
+    },
+    {
+        "character": "Badger",
+        "aliases": [],
+        "fragment": "Badger is one of Jesse's friends."
+    },
+    {
+        "character": "Hector Salamanca",
+        "aliases": [],
+        "fragment": "Hector is Leonel and Marco's uncle and Gus' arch-nemesis."
+    },
+    {
+        "character": "Juan Bolsa",
+        "aliases": [],
+        "fragment": "Juan is a high-ranking cartel member."
+    },
+    {
+        "character": "Andrea Cantillo",
+        "aliases": [],
+        "fragment": "Andrea is a recovering addict who Jesse meets at group therapy."
+    },
+    {
+        "character": "Principal Carmen Molina",
+        "aliases": [],
+        "fragment": "Carmen is the principal of JP Wynne High School where Walter Jr. attends and where Walt used to work."
+    },
+    {
+        "character": "Donald Margolis",
+        "aliases": [],
+        "fragment": "Donald is Jesse's former landlord who is still grieving over the death of his daughter Jane."
+    },
+    {
+        "character": "Old Joe",
+        "aliases": [],
+        "fragment": "Old Joe is a junkyard owner who helps Walt and Jesse destroy the RV they cooked meth in."
+    },
+    {
+        "character": "Diane Pinkman",
+        "aliases": [],
+        "fragment": "Diane is Jesse's mother."
+    },
+    {
+        "character": "Francesca Liddy",
+        "aliases": [],
+        "fragment": "Francesca is Saul's secretary."
+    },
+    {
+        "character": "Jane Margolis",
+        "aliases": [],
+        "fragment": "Jane is Donald's deceased daughter and Jesse's former girlfriend."
+    },
+    {
+        "character": "Combo",
+        "aliases": [],
+        "fragment": "Combo is Jesse's deceased friend."
+    },
+    {
+        "character": "Bogdan",
+        "aliases": [],
+        "fragment": "Bogdan is Walt's former boss who owns a car wash that Walt wants to buy."
+    },
+    {
+        "character": "Tortuga",
+        "aliases": [],
+        "fragment": "Tortuga is a cartel member who worked as an informant for the DEA until he was killed by Leonel and Marco."
+    }
+]

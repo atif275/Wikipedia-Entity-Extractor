@@ -1,0 +1,51 @@
+[
+    {
+        "character": "Lalo Salamanca",
+        "aliases": [],
+        "fragment": "Lalo disrupts Gus's activities and places trust in Nacho, unaware Nacho is Gus's mole."
+    },
+    {
+        "character": "Gus Fring",
+        "aliases": [],
+        "fragment": "Gus fabricates a story to explain events, of which Lalo is aware, which Lalo outwardly accepts while remaining suspicious."
+    },
+    {
+        "character": "Nacho Varga",
+        "aliases": [],
+        "fragment": "Nacho aids in an assassination attempt on Lalo, but Lalo survives and fakes his death."
+    },
+    {
+        "character": "Hector Salamanca",
+        "aliases": [],
+        "fragment": "Hector has a stroke and is left immobile, but remains mentally aware and communicates through a bell tied to his wheelchair."
+    },
+    {
+        "character": "Tuco Salamanca",
+        "aliases": [],
+        "fragment": "Tuco is a mentally unstable drug kingpin and nephew to Hector, known for his violent outbursts."
+    },
+    {
+        "character": "Don Eladio Vuente",
+        "aliases": [],
+        "fragment": "Don Eladio is the head of a drug cartel and has a history with Gus, including ordering the death of Gus's partner."
+    },
+    {
+        "character": "Juan Bolsa",
+        "aliases": [],
+        "fragment": "Juan Bolsa is a high-level member of the Mexican drug cartel and acts as a mediator between the Salamancas and Gus."
+    },
+    {
+        "character": "Leonel Salamanca",
+        "aliases": [
+            "The Cousins"
+        ],
+        "fragment": "Leonel, along with his twin brother Marco, are deadly hitmen for the cartel known as 'The Cousins'."
+    },
+    {
+        "character": "Marco Salamanca",
+        "aliases": [
+            "The Cousins"
+        ],
+        "fragment": "Marco, along with his twin brother Leonel, are deadly hitmen for the cartel known as 'The Cousins'."
+    }
+]

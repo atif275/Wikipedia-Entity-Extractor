@@ -1,0 +1,2961 @@
+American physicist and writer (born 1940)
+Kip Thorne
+Thorne in 2022
+Born
+Kip Stephen Thorne
+(
+1940-06-01
+)
+June 1, 1940
+(age 83)
+Logan, Utah
+, U.S.
+Education
+California Institute of Technology
+(
+BS
+)
+Princeton University
+(
+MS
+,
+PhD
+)
+Known for
+Thorne-Żytkow object
+Roman arch
+Thorne-Hawking-Preskill bet
+LIGO
+Gravitational waves
+Gravitation
+Spouses
+Linda Jean Peterson
+​
+​
+(
+m.
+1960;
+div.
+1977)
+​
+Carolee Joyce Winstein
+​
+​
+(
+m.
+1984)
+​
+Children
+2
+Awards
+Lilienfeld Prize
+(1996)
+Albert Einstein Medal
+(2009)
+[1]
+Special Breakthrough Prize in Fundamental Physics
+(2016)
+Gruber Prize in Cosmology
+(2016)
+Shaw Prize
+(2016)
+Kavli Prize
+(2016)
+Harvey Prize
+(2016)
+Princess of Asturias Award
+(2017)
+Nobel Prize in Physics
+(2017)
+Lewis Thomas Prize
+(2018)
+Scientific career
+Fields
+Astrophysics
+Gravitational physics
+Institutions
+California Institute of Technology
+Cornell University
+Thesis
+Geometrodynamics of cylindrical systems
+(1965)
+Doctoral advisor
+John Archibald Wheeler
+Doctoral students
+William L. Burke
+[2]
+Carlton M. Caves
+Lee Samuel Finn
+Sándor J. Kovács
+David L. Lee
+Alan Lightman
+Don N. Page
+William H. Press
+Richard H. Price
+Bernard F. Schutz
+Saul Teukolsky
+Clifford Martin Will
+Kip Stephen Thorne
+(born June 1, 1940) is an American
+theoretical physicist
+and
+writer
+known for his contributions in
+gravitational physics
+and
+astrophysics
+. Along with
+Rainer Weiss
+and
+Barry C. Barish
+, he was awarded the 2017
+Nobel Prize in Physics
+for his contributions to the
+LIGO
+detector and the observation of
+gravitational waves
+.
+[3]
+[4]
+[5]
+[6]
+A longtime friend and colleague of
+Stephen Hawking
+and
+Carl Sagan
+, he was the
+Richard P. Feynman
+Professor of Theoretical Physics at the
+California Institute of Technology
+(Caltech) until 2009
+[7]
+and speaks of the astrophysical implications of
+the general theory of relativity
+. He continues to do scientific research and scientific consulting, most notably for the
+Christopher Nolan
+film
+Interstellar
+.
+[8]
+[9]
+Life and career
+[
+edit
+]
+Discussion in the main lecture hall at the
+École de Physique des Houches
+(Les Houches Physics School), 1972. From left,
+Yuval Ne'eman
+,
+Bryce DeWitt
+, Thorne,
+Demetrios Christodoulou
+.
+Thorne was born on June 1, 1940, in
+Logan, Utah
+. His father, D. Wynne Thorne (1908–1979), was a professor of
+soil chemistry
+at
+Utah State University
+, and his mother, Alison (née Comish; 1914–2004), was an economist and the first woman to receive a
+PhD
+in economics from
+Iowa State College
+.
+[10]
+[11]
+Raised in an academic environment, two of his four siblings also became professors.
+[12]
+[13]
+Thorne's parents were members of
+the Church of Jesus Christ of Latter-day Saints
+(LDS Church) and raised Thorne in the LDS faith, though he now describes himself as
+atheist
+.  Regarding his views on science and religion, Thorne has stated: "There are large numbers of my finest colleagues who are quite devout and believe in God .... There is no fundamental incompatibility between science and religion. I happen to not believe in God."
+[14]
+Thorne rapidly excelled at academics early in life, winning recognition in the
+Westinghouse Science Talent Search
+as a senior at
+Logan High School
+.
+[15]
+He received his
+BS
+degree from the
+California Institute of Technology
+(Caltech) in 1962, and his PhD from
+Princeton University
+in 1965 under the supervision of
+John Archibald Wheeler
+with a
+doctoral dissertation
+entitled "
+Geometrodynamics
+of Cylindrical Systems".
+[16]
+Thorne returned to Caltech as an associate professor in 1967 and became a professor of theoretical physics in 1970, becoming one of the youngest full professors in the history of Caltech at age 30. He became the William R. Kenan, Jr. Professor in 1981, and the
+Feynman
+Professor of Theoretical Physics in 1991. He was an adjunct professor at the
+University of Utah
+from 1971 to 1998 and Andrew D. White Professor at Large at
+Cornell University
+from 1986 to 1992.
+[17]
+In June 2009, he resigned his Feynman Professorship (he is now the Feynman Professor of Theoretical Physics, Emeritus) to pursue a career of writing and movie making.
+[
+citation needed
+]
+His first film project was
+Interstellar
+, on which he worked with
+Christopher Nolan
+and
+Jonathan Nolan
+.
+[7]
+Throughout the years, Thorne has served as a mentor and thesis advisor to many leading theorists who now work on observational, experimental, or astrophysical aspects of general relativity. Approximately 50 physicists have received PhDs at Caltech under Thorne's personal mentorship.
+[7]
+Thorne is known for his ability to convey the excitement and significance of discoveries in gravitation and astrophysics to both professional and lay audiences. His presentations on subjects such as
+black holes
+,
+gravitational radiation
+,
+relativity
+,
+time travel
+, and
+wormholes
+have been included in
+PBS
+shows in the U.S. and on the
+BBC
+in the United Kingdom.
+[
+citation needed
+]
+Thorne and Linda Jean Peterson married in 1960. Their children are Kares Anne and Bret Carter, an architect. Thorne and Peterson divorced in 1977. Thorne and his second wife, Carolee Joyce Winstein, a professor of
+biokinesiology
+and physical therapy at
+USC
+, married in 1984.
+[18]
+Research
+[
+edit
+]
+Thorne in 1972
+Thorne's research has principally focused on
+relativistic
+astrophysics
+and
+gravitation physics
+, with emphasis on
+relativistic stars
+, black holes and especially
+gravitational waves
+.
+[7]
+He is perhaps best known to the public for his controversial theory that wormholes can conceivably be used for time travel.
+[19]
+However, Thorne's scientific contributions, which center on the general nature of
+space
+, time, and
+gravity
+, span the full range of topics in general relativity.
+Gravitational waves and LIGO
+[
+edit
+]
+Thorne's work has dealt with the prediction of gravitational wave strengths and their temporal signatures as observed on Earth. These "signatures" are of great relevance to
+LIGO
+(Laser Interferometer Gravitational Wave Observatory), a multi-institution gravitational wave experiment for which Thorne has been a leading proponent – in 1984, he cofounded the LIGO Project (the largest project ever funded by the
+NSF
+[20]
+) to discern and measure any fluctuations between two or more 'static' points; such fluctuations would be evidence of gravitational waves, as calculations describe. A significant aspect of his research is developing the
+mathematics
+necessary to analyze these objects.
+[21]
+Thorne also carries out
+engineering
+design analyses for features of the LIGO that cannot be developed on the basis of
+experiment
+and he gives advice on
+data analysis
+algorithms
+by which the waves will be sought. He has provided theoretical support for LIGO, including identifying gravitational wave sources that LIGO should target, designing the baffles to control
+scattered light
+in the LIGO beam tubes, and – in collaboration with
+Vladimir Braginsky
+'s (Moscow, Russia) research group – inventing
+quantum nondemolition
+designs for advanced gravity-wave detectors and ways to reduce the most serious kind of
+noise
+in advanced detectors:
+thermoelastic noise
+. With
+Carlton M. Caves
+, Thorne invented the back-action-evasion approach to quantum nondemolition measurements of the
+harmonic oscillators
+– a technique applicable both in gravitational wave detection and
+quantum optics
+.
+[7]
+On February 11, 2016, a team of four physicists
+[a]
+representing the
+LIGO Scientific Collaboration
+, announced that in September 2015, LIGO recorded the signature of two black holes colliding 1.3 billion light-years away.  This recorded detection was the first direct observation of the
+fleeting chirp of a gravitational wave
+and confirmed a prediction of the general theory of relativity.
+[22]
+[23]
+[24]
+[25]
+[26]
+Black hole cosmology
+[
+edit
+]
+Main article:
+Hoop conjecture
+A cylindrical bundle of magnetic field lines
+While studying for his PhD at Princeton University, his mentor
+John Wheeler
+assigned him a problem to think over: find out whether or not a cylindrical bundle of repulsive magnetic field lines will implode under its own attractive gravitational force. After several months wrestling with the problem, he proved that it was impossible for cylindrical
+magnetic field
+lines to
+implode
+.
+[27]
+: 262–265
+Why won't a cylindrical bundle of magnetic field lines implode, while spherical stars
+will
+implode under their own gravitational force? Thorne tried to explore the theoretical ridge between these two phenomena. He eventually determined that the gravitational force can overcome all interior pressure only when an object has been compressed in all directions. To express this realization, Thorne proposed his
+hoop conjecture
+, which describes an imploding star turning into a black hole when the critical circumference of the designed hoop can be placed around it and set into rotation. That is, any object of mass M around which a hoop of circumference
+4
+π
+G
+M
+c
+2
+{\displaystyle {\begin{matrix}{\frac {4\pi GM}{c^{2}}}\end{matrix}}}
+can be spun must be a black hole.
+[27]
+: 266–267
+[28]
+: 189–190
+As a tool to be used in both enterprises — astrophysics and theoretical physics — Thorne and his students have developed an unusual approach, called the "
+membrane paradigm
+", to the theory of black holes and used it to clarify the "Blandford-Znajek" mechanism by which black holes may power some
+quasars
+and
+active galactic nuclei
+.
+[27]
+: 405–411
+Thorne has investigated the
+quantum
+statistical mechanical
+origin of the
+entropy
+of a black hole. With his
+postdoc
+Wojciech Zurek, he showed that the entropy of a black hole is the
+logarithm
+of the number of ways that the hole could have been made.
+[27]
+: 445–446
+With
+Igor Novikov
+and
+Don Page
+, he developed the general relativistic theory of thin
+accretion disks
+around black holes, and using this theory he deduced that with a doubling of its mass by such
+accretion
+a black hole will be spun up to 0.998 of the maximum
+spin
+allowed by general relativity, but not any farther. This is probably the maximum black-hole spin allowed in nature.
+[7]
+Wormholes and time travel
+[
+edit
+]
+A wormhole is a short cut connecting two separate regions in space.  In the figure the green line shows the short way through wormhole, and the red line shows the long way through normal space.
+Thorne and his co-workers at Caltech conducted scientific research on whether the laws of physics permit space and time to be
+multiply connected
+(can there exist classical,
+traversable wormholes
+and "time machines"?).
+[29]
+With Sung-Won Kim, Thorne identified a universal physical mechanism (the explosive growth of
+vacuum polarization
+of
+quantum fields
+), that may always prevent spacetime from developing
+closed timelike curves
+(i.e., prevent
+backward time travel
+).
+[30]
+With
+Mike Morris
+and
+Ulvi Yurtsever
+, he showed that traversable wormholes can exist in the structure of
+spacetime
+only if they are threaded by quantum fields in
+quantum states
+that violate the
+averaged null energy condition
+(i.e. have negative renormalized energy spread over a sufficiently large region).
+[31]
+This has triggered research to explore the ability of quantum fields to possess such extended
+negative energy
+. Recent calculations by Thorne indicate that simple masses passing through traversable wormholes could never engender
+paradoxes
+– there are
+no
+initial conditions that lead to paradox once time travel is introduced. If his results can be generalized, they would suggest that none of the supposed paradoxes formulated in time travel stories can actually be formulated at a precise physical level: that is, that
+any
+situation in a time travel story turns out to permit
+many
+consistent solutions.
+[
+citation needed
+]
+Relativistic stars, multipole moments and other endeavors
+[
+edit
+]
+With
+Anna Żytkow
+, Thorne predicted the existence of
+red supergiant stars
+with
+neutron-star
+cores (
+Thorne–Żytkow objects
+).
+[32]
+He laid the foundations for the theory of
+pulsations
+of relativistic stars and the gravitational radiation they emit. With
+James Hartle
+, Thorne derived from general relativity the laws of motion and precession of black holes and other relativistic bodies, including the influence of the coupling of their
+multipole moments
+to the spacetime curvature of nearby objects,
+[33]
+as well as writing down the
+Hartle-Thorne metric
+, an approximate solution which describes the exterior of a slowly and rigidly rotating, stationary and axially symmetric body.
+Thorne has also theoretically predicted the existence of universally antigravitating "
+exotic matter
+" – the element needed to accelerate the expansion rate of the universe, keep traversable wormhole "Star Gates" open and keep
+timelike
+geodesic
+free float "
+warp drives
+" working. With Clifford Will
+[34]
+and others of his students, he laid the foundations for the theoretical interpretation of experimental
+tests of relativistic theories of gravity
+– foundations on which Will and others then built. As of 2005
+[update]
+, Thorne was interested in the origin of classical space and time from the
+quantum foam
+of
+quantum gravity
+theory.
+[
+citation needed
+]
+Publications
+[
+edit
+]
+Thorne has written and edited books on topics in gravitational theory and
+high-energy astrophysics
+. In 1973, he co-authored the textbook
+Gravitation
+with
+Charles Misner
+and
+John Wheeler
+;
+[35]
+that according to
+John C. Baez
+and Chris Hillman, is one of the great scientific books of all time and has inspired two generations of students.
+[36]
+In 1994, he published
+Black Holes and Time Warps: Einstein's Outrageous Legacy
+, a book for non-scientists for which he received numerous awards. This book has been published in six languages, and editions in Chinese, Italian, Czech, and Polish are in press.
+[
+when?
+]
+In 2014, Thorne published
+The Science of Interstellar
+in which he explains the science behind Christopher Nolan's film
+Interstellar
+; Nolan wrote the foreword to the book. In September 2017, Thorne and Roger D. Blandford published
+Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics
+, a graduate-level textbook covering the six major areas of physics listed in the title.
+[37]
+Thorne's articles have appeared in publications such as:
+Scientific American
+,
+[38]
+McGraw-Hill
+Yearbook of Science and Technology
+,
+[39]
+and
+Collier's Encyclopedia
+[40]
+among others.
+Thorne has published more than 150 articles in scholarly journals.
+[41]
+Honors and awards
+[
+edit
+]
+Thorne has been elected to:
+[42]
+the
+American Academy of Arts and Sciences
+(1972)
+[43]
+the
+National Academy of Sciences
+,
+the
+Russian Academy of Sciences
+, and
+the
+American Philosophical Society
+.
+He has been recognized by numerous awards including:
+the
+American Institute of Physics
+Science Writing Award in Physics and Astronomy,
+the
+Phi Beta Kappa
+Science Writing Award,
+the
+American Physical Society
+'s
+Lilienfeld Prize
+,
+the
+German Astronomical Society
+'s
+Karl Schwarzschild Medal
+(1996),
+the
+Robinson Prize in Cosmology
+from the
+University of Newcastle
+, England,
+the
+Sigma Xi: The Scientific Research Society
+'s
+Common Wealth Awards for Science and Invention
+, and
+the
+California Science Center
+'s
+California Scientist of the Year Award
+(2003).
+the
+Albert Einstein Medal
+in 2009 from the
+Albert Einstein Society
+, Bern, Switzerland
+the
+UNESCO Niels Bohr Medal
+from
+UNESCO
+(2010)
+[44]
+the
+Special Breakthrough Prize in Fundamental Physics
+(2016)
+the
+Gruber Prize in Cosmology
+(2016)
+the
+Shaw Prize
+(2016)  (together with
+Ronald Drever
+and
+Rainer Weiss
+).
+[45]
+the
+Kavli Prize
+in Astrophysics (2016) (together with Ronald Drever and Rainer Weiss).
+[46]
+the
+Tomalla Prize
+(2016) for extraordinary contributions to general relativity and gravity.
+[47]
+the
+Georges Lemaître
+Prize (2016)
+the
+Harvey Prize
+(2016)  (together with Ronald Drever and Rainer Weiss).
+[48]
+the Smithsonian Magazine American Ingenuity Award for Physical Sciences (2016)
+[49]
+the
+Princess of Asturias Award
+(2017) (jointly with
+Rainer Weiss
+and
+Barry Barish
+).
+[50]
+the
+Nobel Prize in Physics
+(2017) (jointly with
+Rainer Weiss
+and
+Barry Barish
+)
+the
+Lewis Thomas Prize
+(2018)
+the Golden Plate Award of the
+American Academy of Achievement
+(2019)
+[51]
+He has been a
+Woodrow Wilson Fellow
+,
+Danforth Fellow
+,
+Guggenheim Fellow
+, and
+Fulbright Fellow
+. He has also received the honorary degree of doctor of humane letters from
+Claremont Graduate University
+and an honorary doctorate from the Physics Department of the
+Aristotle University of Thessaloniki
+.
+He was elected to hold the Lorentz chair for the year 2009
+Leiden University, the Netherlands
+.
+Thorne has served on:
+the
+International Committee on General Relativity and Gravitation
+,
+the
+Committee on US-USSR Cooperation in Physics
+, and
+the National Academy of Sciences'
+Space Science Board
+, which has advised
+NASA
+and Congress on
+space science policy
+.
+Kip Thorne was selected by
+Time
+magazine
+in an annual
+list of the 100 most influential people in the American world
+in 2016.
+[52]
+Adaptation in media
+[
+edit
+]
+Thorne contributed ideas on wormhole travel to
+Carl Sagan
+for use in his novel
+Contact
+.
+[53]
+Thorne and his friend, producer
+Lynda Obst
+, also developed the concept for the Christopher Nolan film
+Interstellar
+.
+[54]
+He also wrote a tie-in book,
+The Science of Interstellar
+. Thorne later advised Nolan on the physics of his movie
+Tenet
+,
+[55]
+and advised
+Cillian Murphy
+on his portrayal of
+J. Robert Oppenheimer
+in Nolan's film
+Oppenheimer
+.
+[56]
+In
+Larry Niven
+'s novel
+Rainbow Mars
+, the time travel technology used in the novel is based on the wormhole theories of Thorne, which in the context of the novel was when time travel first became possible, rather than just fantasy. As a result, any attempts to travel in time prior to Thorne's development of wormhole theory results in the time traveller entering a fantastic version of reality, rather than the actual past.
+[57]
+In the film
+The Theory of Everything
+, Thorne was portrayed by actor
+Enzo Cilenti
+.
+[58]
+Thorne played himself in the episode of
+The Big Bang Theory
+entitled "The Laureate Accumulation".
+Thorne is featured in an episode of the documentary series
+The Craftsman
+entitled "Science, Art & Inspiration".
+Partial bibliography
+[
+edit
+]
+Misner, Charles W., Thorne, K. S. and Wheeler, John Archibald,
+Gravitation
+1973, (W H Freeman & Co)
+Thorne, K. S., in 300 Years of Gravitation, (Eds.) S. W. Hawking and W. Israel, 1987, (Chicago: Univ. of Chicago Press),
+Gravitational Radiation
+.
+Thorne, K. S., Price, R. H. and Macdonald, DM,
+Black Holes, The Membrane Paradigm
+, 1986, (New Haven: Yale Univ. Press).
+Friedman, J., Morris, MS, Novikov, I. D., Echeverria, F., Klinkhammer, G., Thorne, K. S. and Yurtsever, U., Physical Review D., 1990, (in press),
+Cauchy Problem
+in
+Spacetimes
+with
+Closed Timelike Curves
+.
+Thorne, K. S. and Blandford, R. D.,
+Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics
+, 2017, (Princeton: Princeton University Press).
+Notes
+[
+edit
+]
+^
+The announcement team were Thorne,
+David Reitze
+,
+Gabriela González
+,
+Rainer Weiss
+, and
+France A. Córdova
+.
+References
+[
+edit
+]
+^
+"einstein medal"
+. Einstein-bern.ch
+. Retrieved
+December 7,
+2014
+.
+^
+"Kip Stephen Thorne"
+.
+Mathematics Genealogy Project
+. North Dakota State University
+. Retrieved
+September 6,
+2016
+.
+^
+"The Nobel Prize in Physics 2017"
+. The Nobel Foundation. October 3, 2017
+. Retrieved
+October 3,
+2017
+.
+^
+Rincon, Paul; Amos, Jonathan (October 3, 2017).
+"Einstein's waves win Nobel Prize"
+.
+BBC News
+. Retrieved
+October 3,
+2017
+.
+^
+Overbye, Dennis
+(October 3, 2017).
+"2017 Nobel Prize in Physics Awarded to LIGO Black Hole Researchers"
+.
+The New York Times
+. Retrieved
+October 3,
+2017
+.
+^
+Kaiser, David
+(October 3, 2017).
+"Learning from Gravitational Waves"
+.
+The New York Times
+. Retrieved
+October 3,
+2017
+.
+^
+a
+b
+c
+d
+e
+f
+"Kip S. Thorne: Biographical Sketch"
+.
+www.its.caltech.edu
+. Retrieved
+May 8,
+2020
+.
+^
+Kevin P. Sullivan (December 16, 2013).
+"Christopher Nolan's 'Interstellar' Trailer: Watch Now"
+.
+MTV
+. Retrieved
+October 30,
+2014
+.
+^
+"Watch Exclusive: The Science of Interstellar - WIRED - WIRED Video - CNE"
+.
+WIRED Videos
+. Archived from
+the original
+on December 5, 2014
+. Retrieved
+December 7,
+2014
+.
+^
+"Kip S. Thorne Biography"
+.
+NobelPrize.org
+.
+^
+Grant Kimm, Webmaster- The College of Liberal Arts and Sciences at Iowa State University.
+"Plaza of Heroines at Iowa State University"
+. Las.iastate.edu. Archived from
+the original
+on August 14, 2015
+. Retrieved
+December 7,
+2014
+.
+^
+Jones, Zachary (2011).
+"D. Wynne Thorne Papers, 1936-1983"
+.
+Archives West
+. Orbis Cascade Alliance.
+^
+"Dr. Alison Comish Thorne"
+.
+Legacy.com
+. The Salt Lake Tribune Obituaries. October 26, 2004
+. Retrieved
+September 7,
+2016
+.
+^
+Rory Carroll (June 21, 2013).
+"Kip Thorne: physicist studying time travel tapped for Hollywood film"
+. Guardian News and Media Limited
+. Retrieved
+October 30,
+2014
+.
+Thorne grew up in an academic, Mormon family in Utah but is now an atheist. "There are large numbers of my finest colleagues who are quite devout and believe in God, ranging from an abstract humanist God to a very concrete Catholic or Mormon God. There is no fundamental incompatibility between science and religion. I happen to not believe in God."
+^
+Piper, Matthew (October 3, 2017).
+"Utah-born Kip Thorne wins the Nobel Prize in physics for his role in detecting gravitational waves"
+.
+The Salt Lake Tribune
+.
+^
+Thorne, Kip Stephen (1965).
+Geometrodynamics of cylindrical systems
+(PhD).
+Princeton University
+.
+OCLC
+760240072
+– via
+ProQuest
+.
+^
+"Kip S. Thorne"
+.
+history.aip.org
+.
+^
+Kondrashov, Veronica.
+"Kip S. Thorne: Curriculum Vitae"
+.
+Kip S. Thorn
+. California Institute of Technology.
+^
+Cofield, Cala (December 19, 2014).
+"Time Travel and Wormholes:Physicist Kip Thorne's Wildest Theories"
+.
+Space.com
+.
+^
+"LIGO: The Search for Gravitational Waves"
+. National Science Foundation. Archived from
+the original
+on September 15, 2016
+. Retrieved
+September 9,
+2016
+.
+LIGO is the largest single enterprise undertaken by NSF, with capital investments of nearly $300 million and operating costs of more than $30 million/year.
+^
+"Catching waves with Kip Thorne"
+.
+plus.maths.org
+. December 1, 2001
+. Retrieved
+May 8,
+2020
+.
+^
+"Gravitational Waves Detected 100 Years After Einstein's Prediction"
+. ligo.caltech.edu. February 11, 2016.
+^
+Twilley, Nicola.
+"Gravitational Waves Exist: The Inside Story of How Scientists Finally Found Them"
+.
+The New Yorker
+.
+ISSN
+0028-792X
+. Retrieved
+February 11,
+2016
+.
+^
+Abbott, B.P.; et al. (2016). "Observation of Gravitational Waves from a Binary Black Hole Merger".
+Phys. Rev. Lett.
+116
+(6): 061102.
+arXiv
+:
+1602.03837
+.
+Bibcode
+:
+2016PhRvL.116f1102A
+.
+doi
+:
+10.1103/PhysRevLett.116.061102
+.
+PMID
+26918975
+.
+S2CID
+124959784
+.
+^
+Naeye, Robert (February 11, 2016).
+"Gravitational Wave Detection Heralds New Era of Science"
+.
+Sky and Telescope
+. Retrieved
+February 11,
+2016
+.
+^
+Castelvecchi, Davide; Witze, Alexandra (February 11, 2016).
+"Einstein's gravitational waves found at last"
+.
+Nature News
+.
+doi
+:
+10.1038/nature.2016.19361
+.
+S2CID
+182916902
+. Retrieved
+February 11,
+2016
+.
+^
+a
+b
+c
+d
+Kip S. Thorne (1994).
+Black Holes and Time Warps: Einstein's Outrageous Legacy
+. W.W. Norton.
+ISBN
+978-0-393-31276-8
+.
+^
+V. Frolov; I. Novikov (December 6, 2012).
+Black Hole Physics: Basic Concepts and New Developments
+. Springer Science & Business Media.
+ISBN
+978-94-011-5139-9
+.
+^
+Davies, Paul (2006). "How to Build a Time Machine".
+Scientific American Sp
+.
+16
+(3): 14–19.
+doi
+:
+10.1038/scientificamerican0206-14sp
+.
+PMID
+12197102
+.
+^
+Kim, Sung-Won; Thorne, Kip S. (1991).
+"Do vacuum fluctuations prevent the creation of closed timelike curves?"
+(PDF)
+.
+Physical Review D
+.
+43
+(12): 3929–3947.
+Bibcode
+:
+1991PhRvD..43.3929K
+.
+doi
+:
+10.1103/PhysRevD.43.3929
+.
+PMID
+10013359
+.
+^
+Morris, Michael S.; Thorne, Kip S.; Yurtsever, Ulvi (1988).
+"Wormholes, Time Machines, and the Weak Energy Condition"
+(PDF)
+.
+Physical Review Letters
+.
+61
+(13): 1446–1449.
+Bibcode
+:
+1988PhRvL..61.1446M
+.
+doi
+:
+10.1103/PhysRevLett.61.1446
+.
+PMID
+10038800
+.
+^
+Thorne, Kip S.; Żytkow, Anna N. (March 15, 1977). "Stars with degenerate neutron cores. I - Structure of equilibrium models".
+The Astrophysical Journal
+.
+212
+(1): 832–858.
+Bibcode
+:
+1977ApJ...212..832T
+.
+doi
+:
+10.1086/155109
+.
+^
+Hartle, James; Thorne, Kip S. (1985).
+"Laws of motion and precession for black holes and other bodies"
+(PDF)
+.
+Physical Review D
+.
+31
+(8): 1815–1837.
+Bibcode
+:
+1985PhRvD..31.1815T
+.
+doi
+:
+10.1103/PhysRevD.31.1815
+.
+PMID
+9955908
+.
+^
+Thorne, Kip S.; Will, Clifford (1971). "Theoretical Frameworks for Testing Relativistic Gravity. I. Foundations".
+The Astrophysical Journal
+.
+163
+: 595–610.
+Bibcode
+:
+1971ApJ...163..595T
+.
+doi
+:
+10.1086/150803
+.
+^
+Misner, Charles W.; Kip S. Thorne; John Archibald Wheeler (September 1973).
+Gravitation
+. San Francisco: W. H. Freeman.
+ISBN
+0-7167-0344-0
+.
+^
+"A Guide to Relativity books"
+.
+John Baez, Chris Hillman
+. Department of Mathematics, University of California at Riverside. 1998
+. Retrieved
+June 19,
+2016
+.
+^
+Kip S. Thorne and Roger D. Blandford (2017).
+Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics
+. Princeton University Press.
+ISBN
+978-0-69115902-7
+.
+^
+"Stories by Kip S Thorne"
+.
+Scientific American
+. Retrieved
+November 9,
+2017
+.
+^
+K.S. Thorne, "Gravitational Collapse," in 1976 McGraw-Hill Yearbook of Science and Technology (McGraw-Hill Book Company, New York, 1967), pp. 193-195
+^
+K.S. Thorne, "Gravitational Collapse," Collier's Encyclopedia (Crowell-Collier Educational Corporation, New York, 1969), pp. 335-336
+^
+"Abstract search for refereed papers with fewer than 20 authors including author "Kip, Thorne"
+"
+.
+ui.adsabs.harvard.edu
+.
+^
+"Kip S. Thorne: Curriculum Vitae"
+. Caltech
+. Retrieved
+September 18,
+2016
+.
+^
+"Book of Members, 1780–2010: Chapter T"
+(PDF)
+. American Academy of Arts and Sciences
+. Retrieved
+April 15,
+2011
+.
+^
+"UNESCO's Niels Bohr Gold Medal awarded to prominent physicists"
+. Niels Bohr Institute. September 14, 2010. Archived from
+the original
+on December 21, 2017
+. Retrieved
+December 8,
+2016
+.
+^
+"The Shaw Prize - Top prizes for astronomy, life science and mathematics"
+.
+www.shawprize.org
+. Archived from
+the original
+on March 3, 2018
+. Retrieved
+May 8,
+2020
+.
+^
+"9 Scientific Pioneers Receive The 2016 Kavli Prizes"
+. prnewswire.com. June 2, 2016.
+^
+"The Tomalla prize holders"
+. The Tomalla Foundation
+. Retrieved
+September 18,
+2016
+.
+^
+"Prize Winners – Harvey Prize"
+.
+harveypz.net.technion.ac.il
+. Retrieved
+May 8,
+2020
+.
+^
+"2016 American Ingenuity Award Winners"
+.
+Smithsonian
+. Archived from
+the original
+on October 11, 2018
+. Retrieved
+October 15,
+2018
+.
+^
+IT, Developed with webControl CMS by Intermark.
+"Rainer Weiss, Kip S. Thorne, Barry C. Barish and LIGO Scientific Collaboration - Laureates - Princess of Asturias Awards"
+.
+The Princess of Asturias Foundation
+. Retrieved
+May 8,
+2020
+.
+^
+"Golden Plate Awardees of the American Academy of Achievement"
+.
+www.achievement.org
+.
+American Academy of Achievement
+.
+^
+"Kip Thorne"
+.
+Christopher Nolan
+. Time magazine. April 21, 2016
+. Retrieved
+May 8,
+2016
+.
+^
+"Contact – High Technology Lends a Hand/Science of the Soundstage"
+.
+Warner Bros.
+Archived from
+the original
+on March 4, 2001
+. Retrieved
+September 1,
+2014
+.
+^
+Fernandez, Jay A. (March 28, 2007).
+"Writer with real stars in his eyes"
+.
+Los Angeles Times
+. Retrieved
+September 1,
+2014
+.
+^
+Maddox, Garry (August 22, 2020).
+"
+'The biggest film I've done': Christopher Nolan on the secret world of Tenet"
+.
+The Sydney Morning Herald
+.
+Archived
+from the original on August 23, 2020
+. Retrieved
+August 23,
+2020
+.
+^
+The science of Oppenheimer: meet the Oscar-winning movie’s specialist advisers
+^
+Larry Niven.
+Rainbow Mars
+. New York:
+Tor Books
+, 1999, pp. 45, 366.
+^
+Tunzelmann, Alex von (January 7, 2015).
+"The Theory of Everything skips over the black holes of marriage and science"
+.
+The Guardian
+. Retrieved
+September 29,
+2016
+.
+External links
+[
+edit
+]
+Media related to
+Kip Thorne
+at Wikimedia Commons
+Kip Thorne
+at
+IMDb
+Home Page
+at
+California Institute of Technology
+Kip Thorne
+at the
+Mathematics Genealogy Project
+Crunch Time
+Founding Fathers of Relativity
+Kip S. Thorne
+on Nobelprize.org
+v
+t
+e
+Relativity
+Special
+relativity
+Background
+Principle of relativity
+(
+Galilean relativity
+Galilean transformation
+)
+Special relativity
+Doubly special relativity
+Fundamental
+concepts
+Frame of reference
+Speed of light
+Hyperbolic orthogonality
+Rapidity
+Maxwell's equations
+Proper length
+Proper time
+Proper acceleration
+Relativistic mass
+Formulation
+Lorentz transformation
+Phenomena
+Time dilation
+Mass–energy equivalence (E=mc
+2
+)
+Length contraction
+Relativity of simultaneity
+Relativistic Doppler effect
+Thomas precession
+Ladder paradox
+Twin paradox
+Terrell rotation
+Spacetime
+Light cone
+World line
+Minkowski diagram
+Biquaternions
+Minkowski space
+General
+relativity
+Background
+Introduction
+Mathematical formulation
+Fundamental
+concepts
+Equivalence principle
+Riemannian geometry
+Penrose diagram
+Geodesics
+Mach's principle
+Formulation
+ADM formalism
+BSSN formalism
+Einstein field equations
+Linearized gravity
+Post-Newtonian formalism
+Raychaudhuri equation
+Hamilton–Jacobi–Einstein equation
+Ernst equation
+Phenomena
+Black hole
+Event horizon
+Singularity
+Two-body problem
+Gravitational waves
+:
+astronomy
+detectors
+(
+LIGO
+and
+collaboration
+Virgo
+LISA Pathfinder
+GEO
+)
+Hulse–Taylor binary
+Other tests
+:
+precession
+of Mercury
+lensing
+(together with
+Einstein cross
+and
+Einstein rings
+)
+redshift
+Shapiro delay
+frame-dragging
+/
+geodetic effect
+(
+Lense–Thirring precession
+)
+pulsar timing arrays
+Advanced
+theories
+Brans–Dicke theory
+Kaluza–Klein
+Quantum gravity
+Solutions
+Cosmological:
+Friedmann–Lemaître–Robertson–Walker
+(
+Friedmann equations
+)
+Lemaître–Tolman
+Kasner
+BKL singularity
+Gödel
+Milne
+Spherical:
+Schwarzschild
+(
+interior
+Tolman–Oppenheimer–Volkoff equation
+)
+Reissner–Nordström
+Axisymmetric:
+Kerr
+(
+Kerr–Newman
+)
+Weyl−Lewis−Papapetrou
+Taub–NUT
+van Stockum dust
+discs
+Others:
+pp-wave
+Ozsváth–Schücking
+Alcubierre
+In computational physics:
+Numerical relativity
+Scientists
+Poincaré
+Lorentz
+Einstein
+Hilbert
+Schwarzschild
+de Sitter
+Weyl
+Eddington
+Friedmann
+Lemaître
+Milne
+Robertson
+Chandrasekhar
+Zwicky
+Wheeler
+Choquet-Bruhat
+Kerr
+Zel'dovich
+Novikov
+Ehlers
+Geroch
+Penrose
+Hawking
+Taylor
+Hulse
+Bondi
+Misner
+Yau
+Thorne
+Weiss
+others
+Category
+v
+t
+e
+Laureates
+of the
+Nobel Prize in Physics
+1901–1925
+1901:
+Röntgen
+1902:
+Lorentz
+/
+Zeeman
+1903:
+Becquerel
+/
+P. Curie
+/
+M. Curie
+1904:
+Rayleigh
+1905:
+Lenard
+1906:
+J. J. Thomson
+1907:
+Michelson
+1908:
+Lippmann
+1909:
+Marconi
+/
+Braun
+1910:
+Van der Waals
+1911:
+Wien
+1912:
+Dalén
+1913:
+Kamerlingh Onnes
+1914:
+Laue
+1915:
+W. L. Bragg
+/
+W. H. Bragg
+1916
+1917:
+Barkla
+1918:
+Planck
+1919:
+Stark
+1920:
+Guillaume
+1921:
+Einstein
+1922:
+N. Bohr
+1923:
+Millikan
+1924:
+M. Siegbahn
+1925:
+Franck
+/
+Hertz
+1926–1950
+1926:
+Perrin
+1927:
+Compton
+/
+C. Wilson
+1928:
+O. Richardson
+1929:
+De Broglie
+1930:
+Raman
+1931
+1932:
+Heisenberg
+1933:
+Schrödinger
+/
+Dirac
+1934
+1935:
+Chadwick
+1936:
+Hess
+/
+C. D. Anderson
+1937:
+Davisson
+/
+G. P. Thomson
+1938:
+Fermi
+1939:
+Lawrence
+1940
+1941
+1942
+1943:
+Stern
+1944:
+Rabi
+1945:
+Pauli
+1946:
+Bridgman
+1947:
+Appleton
+1948:
+Blackett
+1949:
+Yukawa
+1950:
+Powell
+1951–1975
+1951:
+Cockcroft
+/
+Walton
+1952:
+Bloch
+/
+Purcell
+1953:
+Zernike
+1954:
+Born
+/
+Bothe
+1955:
+Lamb
+/
+Kusch
+1956:
+Shockley
+/
+Bardeen
+/
+Brattain
+1957:
+C. N. Yang
+/
+T. D. Lee
+1958:
+Cherenkov
+/
+Frank
+/
+Tamm
+1959:
+Segrè
+/
+Chamberlain
+1960:
+Glaser
+1961:
+Hofstadter
+/
+Mössbauer
+1962:
+Landau
+1963:
+Wigner
+/
+Goeppert Mayer
+/
+Jensen
+1964:
+Townes
+/
+Basov
+/
+Prokhorov
+1965:
+Tomonaga
+/
+Schwinger
+/
+Feynman
+1966:
+Kastler
+1967:
+Bethe
+1968:
+Alvarez
+1969:
+Gell-Mann
+1970:
+Alfvén
+/
+Néel
+1971:
+Gabor
+1972:
+Bardeen
+/
+Cooper
+/
+Schrieffer
+1973:
+Esaki
+/
+Giaever
+/
+Josephson
+1974:
+Ryle
+/
+Hewish
+1975:
+A. Bohr
+/
+Mottelson
+/
+Rainwater
+1976–2000
+1976:
+Richter
+/
+Ting
+1977:
+P. W. Anderson
+/
+Mott
+/
+Van Vleck
+1978:
+Kapitsa
+/
+Penzias
+/
+R. Wilson
+1979:
+Glashow
+/
+Salam
+/
+Weinberg
+1980:
+Cronin
+/
+Fitch
+1981:
+Bloembergen
+/
+Schawlow
+/
+K. Siegbahn
+1982:
+K. Wilson
+1983:
+Chandrasekhar
+/
+Fowler
+1984:
+Rubbia
+/
+Van der Meer
+1985:
+von Klitzing
+1986:
+Ruska
+/
+Binnig
+/
+Rohrer
+1987:
+Bednorz
+/
+Müller
+1988:
+Lederman
+/
+Schwartz
+/
+Steinberger
+1989:
+Ramsey
+/
+Dehmelt
+/
+Paul
+1990:
+Friedman
+/
+Kendall
+/
+R. Taylor
+1991:
+de Gennes
+1992:
+Charpak
+1993:
+Hulse
+/
+J. Taylor
+1994:
+Brockhouse
+/
+Shull
+1995:
+Perl
+/
+Reines
+1996:
+D. Lee
+/
+Osheroff
+/
+R. Richardson
+1997:
+Chu
+/
+Cohen-Tannoudji
+/
+Phillips
+1998:
+Laughlin
+/
+Störmer
+/
+Tsui
+1999:
+'t Hooft
+/
+Veltman
+2000:
+Alferov
+/
+Kroemer
+/
+Kilby
+2001–
+present
+2001:
+Cornell
+/
+Ketterle
+/
+Wieman
+2002:
+Davis
+/
+Koshiba
+/
+Giacconi
+2003:
+Abrikosov
+/
+Ginzburg
+/
+Leggett
+2004:
+Gross
+/
+Politzer
+/
+Wilczek
+2005:
+Glauber
+/
+Hall
+/
+Hänsch
+2006:
+Mather
+/
+Smoot
+2007:
+Fert
+/
+Grünberg
+2008:
+Nambu
+/
+Kobayashi
+/
+Maskawa
+2009:
+Kao
+/
+Boyle
+/
+Smith
+2010:
+Geim
+/
+Novoselov
+2011:
+Perlmutter
+/
+Schmidt
+/
+Riess
+2012:
+Wineland
+/
+Haroche
+2013:
+Englert
+/
+Higgs
+2014:
+Akasaki
+/
+Amano
+/
+Nakamura
+2015:
+Kajita
+/
+McDonald
+2016:
+Thouless
+/
+Haldane
+/
+Kosterlitz
+2017:
+Weiss
+/
+Barish
+/
+Thorne
+2018:
+Ashkin
+/
+Mourou
+/
+Strickland
+2019:
+Peebles
+/
+Mayor
+/
+Queloz
+2020:
+Penrose
+/
+Genzel
+/
+Ghez
+2021:
+Parisi
+/
+Hasselmann
+/
+Manabe
+2022:
+Aspect
+/
+Clauser
+/
+Zeilinger
+2023:
+Agostini
+/
+Krausz
+/
+L'Huillier
+v
+t
+e
+2017
+Nobel Prize
+laureates
+Chemistry
+Jacques Dubochet
+(Switzerland)
+Joachim Frank
+(Germany/United States)
+Richard Henderson
+(United Kingdom)
+Literature
+(
+2017
+)
+Kazuo Ishiguro
+(United Kingdom)
+Peace
+(
+2017
+)
+International Campaign to Abolish Nuclear Weapons
+(Switzerland)
+Physics
+Rainer Weiss
+(United States)
+Barry Barish
+(United States)
+Kip Thorne
+(United States)
+Physiology or Medicine
+Jeffrey C. Hall
+(United States)
+Michael Rosbash
+(United States)
+Michael W. Young
+(United States)
+Economic Sciences
+Richard Thaler
+(United States)
+Nobel Prize recipients
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+v
+t
+e
+Breakthrough Prize
+laureates
+Mathematics
+Simon Donaldson
+,
+Maxim Kontsevich
+,
+Jacob Lurie
+,
+Terence Tao
+and
+Richard Taylor
+(2015)
+Ian Agol
+(2016)
+Jean Bourgain
+(2017)
+Christopher Hacon
+,
+James McKernan
+(2018)
+Vincent Lafforgue
+(2019)
+Alex Eskin
+(2020)
+Martin Hairer
+(2021)
+Takuro Mochizuki
+(2022)
+Daniel A. Spielman
+(2023)
+Simon Brendle
+(2024)
+Fundamental
+physics
+Nima Arkani-Hamed
+,
+Alan Guth
+,
+Alexei Kitaev
+,
+Maxim Kontsevich
+,
+Andrei Linde
+,
+Juan Maldacena
+,
+Nathan Seiberg
+,
+Ashoke Sen
+,
+Edward Witten
+(2012)
+Special
+:
+Stephen Hawking
+,
+Peter Jenni
+,
+Fabiola Gianotti
+(ATLAS),
+Michel Della Negra
+,
+Tejinder Virdee
+,
+Guido Tonelli
+,
+Joseph Incandela
+(CMS) and
+Lyn Evans
+(LHC) (2013)
+Alexander Polyakov
+(2013)
+Michael Green
+and
+John Henry Schwarz
+(2014)
+Saul Perlmutter
+and members of the
+Supernova Cosmology Project
+;
+Brian Schmidt
+,
+Adam Riess
+and members of the
+High-Z Supernova Team
+(2015)
+Special
+:
+Ronald Drever
+,
+Kip Thorne
+,
+Rainer Weiss
+and contributors to
+LIGO
+project (2016)
+Yifang Wang
+,
+Kam-Biu Luk
+and the
+Daya Bay team
+,
+Atsuto Suzuki
+and the
+KamLAND
+team,
+Kōichirō Nishikawa
+and the
+K2K
+/
+T2K
+team,
+Arthur B. McDonald
+and the
+Sudbury Neutrino Observatory
+team,
+Takaaki Kajita
+and
+Yōichirō Suzuki
+and the
+Super-Kamiokande
+team (2016)
+Joseph Polchinski
+,
+Andrew Strominger
+,
+Cumrun Vafa
+(2017)
+Charles L. Bennett
+,
+Gary Hinshaw
+,
+Norman Jarosik
+,
+Lyman Page Jr.
+,
+David Spergel
+(2018)
+Special
+:
+Jocelyn Bell Burnell
+(2018)
+Charles Kane
+and
+Eugene Mele
+(2019)
+Special
+:
+Sergio Ferrara
+,
+Daniel Z. Freedman
+,
+Peter van Nieuwenhuizen
+(2019)
+The Event Horizon Telescope Collaboration
+(2020)
+Eric Adelberger
+,
+Jens H. Gundlach
+and
+Blayne Heckel
+(2021)
+Special
+:
+Steven Weinberg
+(2021)
+Hidetoshi Katori
+and
+Jun Ye
+(2022)
+Charles H. Bennett
+,
+Gilles Brassard
+,
+David Deutsch
+,
+Peter W. Shor
+(2023)
+John Cardy
+and
+Alexander Zamolodchikov
+(2024)
+Life sciences
+Cornelia Bargmann
+,
+David Botstein
+,
+Lewis C. Cantley
+,
+Hans Clevers
+,
+Titia de Lange
+,
+Napoleone Ferrara
+,
+Eric Lander
+,
+Charles Sawyers
+,
+Robert Weinberg
+,
+Shinya Yamanaka
+and
+Bert Vogelstein
+(2013)
+James P. Allison
+,
+Mahlon DeLong
+,
+Michael N. Hall
+,
+Robert S. Langer
+,
+Richard P. Lifton
+and
+Alexander Varshavsky
+(2014)
+Alim Louis Benabid
+,
+Charles David Allis
+,
+Victor Ambros
+,
+Gary Ruvkun
+,
+Jennifer Doudna
+and
+Emmanuelle Charpentier
+(2015)
+Edward Boyden
+,
+Karl Deisseroth
+,
+John Hardy
+,
+Helen Hobbs
+and
+Svante Pääbo
+(2016)
+Stephen J. Elledge
+,
+Harry F. Noller
+,
+Roeland Nusse
+,
+Yoshinori Ohsumi
+,
+Huda Zoghbi
+(2017)
+Joanne Chory
+,
+Peter Walter
+,
+Kazutoshi Mori
+,
+Kim Nasmyth
+,
+Don W. Cleveland
+(2018)
+C. Frank Bennett
+and
+Adrian R. Krainer
+,
+Angelika Amon
+,
+Xiaowei Zhuang
+,
+Zhijian Chen
+(2019)
+Jeffrey M. Friedman
+,
+Franz-Ulrich Hartl
+,
+Arthur L. Horwich
+,
+David Julius
+,
+Virginia Man-Yee Lee
+(2020)
+David Baker
+,
+Catherine Dulac
+,
+Dennis Lo
+,
+Richard J. Youle
+[
+de
+]
+(2021)
+Jeffery W. Kelly
+,
+Katalin Karikó
+,
+Drew Weissman
+,
+Shankar Balasubramanian
+,
+David Klenerman
+and
+Pascal Mayer
+(2022)
+Clifford P. Brangwynne
+,
+Anthony A. Hyman
+,
+Demis Hassabis
+,
+John Jumper
+,
+Emmanuel Mignot
+,
+Masashi Yanagisawa
+(2023)
+Carl June
+,
+Michel Sadelain
+,
+Sabine Hadida
+,
+Paul Negulescu
+,
+Fredrick Van Goor
+,
+Thomas Gasser
+,
+Ellen Sidransky
+and
+Andrew Singleton
+(2024)
+v
+t
+e
+Kavli Prize
+laureates
+Astrophysics
+Maarten Schmidt
+,
+Donald Lynden-Bell
+(2008)
+Jerry E. Nelson
+,
+Raymond N. Wilson
+,
+Roger Angel
+(2010)
+David C. Jewitt
+,
+Jane Luu
+,
+Michael E. Brown
+(2012)
+Alan Guth
+,
+Andrei Linde
+,
+Alexei Starobinsky
+(2014)
+Ronald Drever
+,
+Kip Thorne
+,
+Rainer Weiss
+(2016)
+Ewine van Dishoeck
+(2018)
+Andrew Fabian
+(2020)
+Roger Ulrich
+,
+Jørgen Christensen-Dalsgaard
+,
+Conny Aerts
+(2022)
+Nanoscience
+Louis E. Brus
+,
+Sumio Iijima
+(2008)
+Donald Eigler
+,
+Nadrian Seeman
+(2010)
+Mildred Dresselhaus
+(2012)
+Thomas Ebbesen
+,
+Stefan Hell
+,
+John Pendry
+(2014)
+Gerd Binnig
+,
+Christoph Gerber
+,
+Calvin Quate
+(2016)
+Emmanuelle Charpentier
+,
+Jennifer Doudna
+,
+Virginijus Šikšnys
+(2018)
+Harald Rose
+,
+Maximilian Haider
+,
+Knut Urban
+,
+Ondrej Krivanek
+(2020)
+Jacob Sagiv
+,
+Ralph G. Nuzzo
+,
+David L. Allara
+,
+George M. Whitesides
+(2022)
+Neuroscience
+Sten Grillner
+,
+Thomas Jessell
+,
+Pasko Rakic
+(2008)
+Richard Scheller
+,
+Thomas C. Südhof
+,
+James Rothman
+(2010)
+Cornelia Bargmann
+,
+Winfried Denk
+,
+Ann Graybiel
+(2012)
+Brenda Milner
+,
+John O'Keefe
+,
+Marcus Raichle
+(2014)
+Eve Marder
+,
+Michael Merzenich
+,
+Carla J. Shatz
+(2016)
+A. James Hudspeth
+,
+Robert Fettiplace
+,
+Christine Petit
+(2018)
+David Julius
+,
+Ardem Patapoutian
+(2020)
+Jean-Louis Mandel
+,
+Harry T. Orr
+,
+Christopher A. Walsh
+,
+Huda Zoghbi
+(2022)
+v
+t
+e
+Shaw Prize
+laureates
+Astronomy
+Jim Peebles
+(2004)
+Geoffrey Marcy
+and
+Michel Mayor
+(2005)
+Saul Perlmutter
+,
+Adam Riess
+and
+Brian Schmidt
+(2006)
+Peter Goldreich
+(2007)
+Reinhard Genzel
+(2008)
+Frank Shu
+(2009)
+Charles Bennett
+,
+Lyman Page
+and
+David Spergel
+(2010)
+Enrico Costa
+and
+Gerald Fishman
+(2011)
+David C. Jewitt
+and
+Jane Luu
+(2012)
+Steven Balbus
+and
+John F. Hawley
+(2013)
+Daniel Eisenstein
+,
+Shaun Cole
+and
+John A. Peacock
+(2014)
+William J. Borucki
+(2015)
+Ronald Drever
+,
+Kip Thorne
+and
+Rainer Weiss
+(2016)
+Simon White
+(2017)
+Jean-Loup Puget
+(2018)
+Edward C. Stone
+(2019)
+Roger Blandford
+(2020)
+Victoria Kaspi
+and
+Chryssa Kouveliotou
+(2021)
+Lennart Lindegren
+and
+Michael Perryman
+(2022)
+Matthew Bailes
+,
+Duncan Lorimer
+and
+Maura McLaughlin
+(2023)
+Life science
+and medicine
+Stanley Norman Cohen
+,
+Herbert Boyer
+,
+Yuet-Wai Kan
+and
+Richard Doll
+(2004)
+Michael Berridge
+(2005)
+Xiaodong Wang
+(2006)
+Robert Lefkowitz
+(2007)
+Ian Wilmut
+,
+Keith H. S. Campbell
+and
+Shinya Yamanaka
+(2008)
+Douglas Coleman
+and
+Jeffrey Friedman
+(2009)
+David Julius
+(2010)
+Jules Hoffmann
+,
+Ruslan Medzhitov
+and
+Bruce Beutler
+(2011)
+Franz-Ulrich Hartl
+and
+Arthur L. Horwich
+(2012)
+Jeffrey C. Hall
+,
+Michael Rosbash
+and
+Michael W. Young
+(2013)
+Kazutoshi Mori
+and
+Peter Walter
+(2014)
+Bonnie Bassler
+and
+Everett Peter Greenberg
+(2015)
+Adrian Bird
+and
+Huda Zoghbi
+(2016)
+Ian R. Gibbons
+and
+Ronald Vale
+(2017)
+Mary-Claire King
+(2018)
+Maria Jasin
+(2019)
+Gero Miesenböck
+,
+Peter Hegemann
+and
+Georg Nagel
+(2020)
+Scott D. Emr
+(2021)
+Paul A. Negulescu
+and
+Michael J. Welsh
+(2022)
+Patrick Cramer
+and
+Eva Nogales
+(2023)
+Mathematical
+science
+Shiing-Shen Chern
+(2004)
+Andrew Wiles
+(2005)
+David Mumford
+and
+Wentsun Wu
+(2006)
+Robert Langlands
+and
+Richard Taylor
+(2007)
+Vladimir Arnold
+and
+Ludwig Faddeev
+(2008)
+Simon Donaldson
+and
+Clifford Taubes
+(2009)
+Jean Bourgain
+(2010)
+Demetrios Christodoulou
+and
+Richard S. Hamilton
+(2011)
+Maxim Kontsevich
+(2012)
+David Donoho
+(2013)
+George Lusztig
+(2014)
+Gerd Faltings
+and
+Henryk Iwaniec
+(2015)
+Nigel Hitchin
+(2016)
+János Kollár
+and
+Claire Voisin
+(2017)
+Luis Caffarelli
+(2018)
+Michel Talagrand
+(2019)
+Alexander Beilinson
+and
+David Kazhdan
+(2020)
+Jean-Michel Bismut
+and
+Jeff Cheeger
+(2021)
+Noga Alon
+and
+Ehud Hrushovski
+(2022)
+Vladimir Drinfeld
+and
+Shing-Tung Yau
+(2023)
+v
+t
+e
+Laureates of the
+Prince or Princess of Asturias Award
+for Technical and Scientific Research
+Prince of Asturias Award for Technical and Scientific Research
+1981:
+Alberto Sols
+1982:
+Manuel Ballester
+1983:
+Luis Antonio Santaló Sors
+1984:
+Antonio Garcia-Bellido
+1985:
+David Vázquez Martínez
+and
+Emilio Rosenblueth
+1986:
+Antonio González González
+1987:
+Jacinto Convit
+and
+Pablo Rudomín
+1988:
+Manuel Cardona
+and
+Marcos Moshinsky
+1989:
+Guido Münch
+1990:
+Santiago Grisolía
+and
+Salvador Moncada
+1991:
+Francisco Bolívar Zapata
+1992:
+Federico García Moliner
+1993:
+Amable Liñán
+1994:
+Manuel Patarroyo
+1995:
+Manuel Losada Villasante
+and
+Instituto Nacional de Biodiversidad
+of Costa Rica
+1996:
+Valentín Fuster
+1997:
+Atapuerca
+research team
+1998:
+Emilio Méndez Pérez
+and
+Pedro Miguel Echenique Landiríbar
+1999:
+Ricardo Miledi
+and
+Enrique Moreno González
+2000:
+Robert Gallo
+and
+Luc Montagnier
+2001:
+Craig Venter
+,
+John Sulston
+,
+Francis Collins
+,
+Hamilton Smith
+and
+Jean Weissenbach
+2002:
+Lawrence Roberts
+,
+Robert E. Kahn
+,
+Vinton Cerf
+and
+Tim Berners-Lee
+2003:
+Jane Goodall
+2004:
+Judah Folkman
+,
+Tony Hunter
+,
+Joan Massagué
+,
+Bert Vogelstein
+and
+Robert Weinberg
+2005:
+Antonio Damasio
+2006:
+Juan Ignacio Cirac
+2007:
+Peter Lawrence
+and
+Ginés Morata
+2008:
+Sumio Iijima
+,
+Shuji Nakamura
+,
+Robert Langer
+,
+George M. Whitesides
+and
+Tobin Marks
+2009:
+Martin Cooper
+and
+Raymond Tomlinson
+2010:
+David Julius
+,
+Baruch Minke
+and
+Linda Watkins
+2011:
+Joseph Altman
+,
+Arturo Álvarez-Buylla
+and
+Giacomo Rizzolatti
+2012:
+Gregory Winter
+and
+Richard A. Lerner
+2013:
+Peter Higgs
+,
+François Englert
+and
+European Organization for Nuclear Research CERN
+2014:
+Avelino Corma Canós
+,
+Mark E. Davis
+and
+Galen D. Stucky
+Princess of Asturias Award for Technical and Scientific Research
+2015:
+Emmanuelle Charpentier
+and
+Jennifer Doudna
+2016:
+Hugh Herr
+2017:
+Rainer Weiss
+,
+Kip S. Thorne
+,
+Barry C. Barish
+and the
+LIGO
+Scientific Collaboration
+2018:
+Svante Pääbo
+2019:
+Joanne Chory
+and
+Sandra Myrna Díaz
+2020:
+Yves Meyer
+,
+Ingrid Daubechies
+,
+Terence Tao
+and
+Emmanuel Candès
+2021:
+Katalin Karikó
+,
+Drew Weissman
+,
+Philip Felgner
+,
+Uğur Şahin
+,
+Özlem Türeci
+,
+Derrick Rossi
+and
+Sarah Gilbert
+2022:
+Geoffrey Hinton
+,
+Yann LeCun
+,
+Yoshua Bengio
+and
+Demis Hassabis
+2023:
+Jeffrey I. Gordon
+,
+Everett Peter Greenberg
+and
+Bonnie Bassler
+Portals
+:
+Biography
+Physics
+Astronomy
+Stars
+Spaceflight
+Outer space
+Science
+Authority control databases
+International
+FAST
+ISNI
+VIAF
+WorldCat
+National
+Norway
+Spain
+France
+BnF data
+Catalonia
+Germany
+Israel
+United States
+Japan
+Czech Republic
+Australia
+Korea
+Netherlands
+Poland
+Portugal
+Academics
+CiNii
+DBLP
+MathSciNet
+Mathematics Genealogy Project
+ORCID
+Scopus
+zbMATH
+People
+Deutsche Biographie
+Trove
+Other
+SNAC
+IdRef
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Kip_Thorne&oldid=1223754218
+"

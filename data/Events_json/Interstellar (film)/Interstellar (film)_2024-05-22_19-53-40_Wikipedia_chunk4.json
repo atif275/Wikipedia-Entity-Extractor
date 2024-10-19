@@ -1,0 +1,79 @@
+[
+    {
+        "element": "Film",
+        "description": "Interstellar is a 2014 science fiction film about a team of astronauts who travel through a cosmic wormhole in search of a habitable planet as the Earth is ravaged by worldwide crop blights, dust storms, and the atmosphere loses oxygen.",
+        "excerpts": [
+            "Interstellar is a 2014 science fiction film about a team of astronauts who travel through a cosmic wormhole in search of a habitable planet as the Earth is ravaged by worldwide crop blights, dust storms, and the atmosphere loses oxygen."
+        ]
+    },
+    {
+        "element": "Cooper",
+        "description": "Cooper is a widowed astronaut and one of the main characters in the film.",
+        "excerpts": [
+            "Cooper: 'We've always defined ourselves by the ability to overcome the impossible.'",
+            "Cooper: 'Once you're a parent, you're the ghost of your children's future.'",
+            "Cooper: 'We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.'",
+            "Cooper: 'Mankind was born on Earth, it was never meant to die here.'"
+        ]
+    },
+    {
+        "element": "Professor Brand",
+        "description": "Professor Brand is a character in the film who plays a key role in the mission to find a habitable planet.",
+        "excerpts": [
+            "Professor Brand: 'Do not go gentle into that good night.'",
+            "Professor Brand: 'We're not meant to save the world, we're meant to leave it.'",
+            "Professor Brand: 'We must reach far beyond our own lifespans, we must think not as individuals but as a species.'",
+            "Professor Brand: 'We must confront the reality of interstellar travel.'"
+        ]
+    },
+    {
+        "element": "Murphy Cooper",
+        "description": "Murphy Cooper is Cooper's daughter and plays a significant role in the film.",
+        "excerpts": [
+            "Murphy Cooper: 'Today is my birthday and it's a special one because you once told me that when you came back, we might be the same age.'",
+            "Murphy Cooper: 'Love is the one thing that transcends time and space.'",
+            "Murphy Cooper: 'Maybe we've spent too long trying to figure all this out with theory.'",
+            "Murphy Cooper: 'You were thinking about getting home, I was trying to do the right thing.'"
+        ]
+    },
+    {
+        "element": "Amelia Brand",
+        "description": "Amelia Brand is a character in the film and a member of the team searching for a habitable planet.",
+        "excerpts": [
+            "Amelia Brand: 'Love is the one thing that transcends time and space.'",
+            "Amelia Brand: 'Maybe we've spent too long trying to figure all this out with theory.'",
+            "Amelia Brand: 'You might have to decide between seeing your children again and the future of the human race.'"
+        ]
+    },
+    {
+        "element": "TARS",
+        "description": "TARS is a robot character in the film that provides assistance to the astronauts.",
+        "excerpts": [
+            "TARS: 'Everybody good? Plenty of slaves for my robot colony.'",
+            "TARS: 'I have a cue light I can use to show you when I'm joking, if you like.'",
+            "TARS: 'Lower than yours apparently.'",
+            "TARS: 'Confirmed self-destruct sequence in T minus 10, 9...'"
+        ]
+    },
+    {
+        "element": "Dialogue",
+        "description": "Key dialogue exchanges from the film.",
+        "excerpts": [
+            "Cooper: 'You don't believe we went to the moon.'",
+            "Professor Brand: 'We must confront the reality that nothing in our solar system can help us.'",
+            "Cooper: 'What happened to Miller?' Brand: 'Judging by the wreckage, she was broken up by a wave shortly after impact.'",
+            "Cooper: 'Time is relative. It can stretch and squeeze, but it can't run backwards.'",
+            "Cooper: 'The beings that led us here, they communicate through gravity. Could they be talking to us from the future?'",
+            "Cooper: 'I screwed up, but you know about relativity.'",
+            "TARS: 'This is not possible.' Cooper: 'No, it's necessary.'",
+            "Cooper: 'What are you doing, TARS?' TARS: 'Docking.'",
+            "Cooper: 'There's no point in using our fuel to chase.'",
+            "Cooper: 'We want to get down fast, don't we?' Brand: 'Actually, we want to get there in one piece.'",
+            "TARS: 'Confirmed self-destruct sequence in T minus 10, 9...'",
+            "Cooper: 'We've always defined ourselves by the ability to overcome the impossible.'",
+            "Cooper: 'Once you're a parent, you're the ghost of your children's future.'",
+            "Cooper: 'We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.'",
+            "Cooper: 'Mankind was born on Earth, it was never meant to die here.'"
+        ]
+    }
+]
